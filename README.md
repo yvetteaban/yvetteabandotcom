@@ -1,4 +1,4 @@
-Yvette Aban
+YvetteAban.com
 ===
 
 I'm working on a new WordPress theme for <a href="http://yvetteaban.com">yvetteaban.com</a>.
